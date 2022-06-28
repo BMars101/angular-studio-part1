@@ -1,0 +1,18 @@
+h1{
+    color: rgb(79, 129, 160);
+}
+h3 {
+
+}
+h1, h3{
+    text-align: center;
+}
+
+.mission-details {
+    margin: auto 425px;
+    padding-top: 20px;
+    padding-bottom: 45px;
+    background-color: #cf7214;
+    color: white;
+    border-radius: 100%;
+}
